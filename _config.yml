@@ -1,0 +1,10 @@
+# Site settings
+title: Vanover/Graham Family Reunion 2012
+# email: your-email@domain.com
+description: "Updates for the Vanover/Graham Family Reunion"
+baseurl: ""
+# url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
